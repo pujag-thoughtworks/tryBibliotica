@@ -2,7 +2,7 @@
 /out
 gradlew
 gradle.bat
-.gradle
-gradlew.bat
-settings.gradle
-tryBibliotica.iml
+/.gradle
+/gradlew.bat
+/settings.gradle
+/tryBibliotica.iml
